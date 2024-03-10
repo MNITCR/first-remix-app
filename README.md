@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
@@ -36,3 +37,6 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
+=======
+# first-remix-app
+>>>>>>> e1c221e3f61d822696171b55dec71936b896323a
